@@ -1,0 +1,44 @@
+name,ring,quadrant,isNew,description
+HTML5,Adopt,Front-end,FALSE,"<a href=""https://developer.mozilla.org/en-US/docs/Web/HTML/Reference"">HTML Reference </a>"
+CSS3,Adopt,Front-end,FALSE,"<a href=""https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"">CSS Reference</a>"
+SASS,Adopt,Front-end,FALSE,"Sass is a stylesheet language that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized and makes it easy to share design within and across projects, <a href=""https://sass-lang.com/documentation"">SASS Reference</a>"
+TailwaindCSS,Explore,Front-end,TRUE,"A utility-first CSS framework for rapidly building custom designs. <a href=""https://tailwindcss.com/docs/installation"">Tailwind CSS </a>"
+Bootstrap,Adopt,Front-end,FALSE,"Bootstrap is the world’s most popular framework for building responsive, mobile-first sites. <a href=""https://getbootstrap.com/docs/4.5/getting-started/introduction/"">Bootstrap</a>"
+JavaScript,Adopt,Front-end,FALSE,"<a href=""https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"">JavaScript Reference</a>"
+Bulma,Explore,Front-end,TRUE,"Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free. <a href=""https://bulma.io/documentation/""<</a>"
+TypeScript,Adopt,Front-end,FALSE,"TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.<a href=""https://www.typescriptlang.org/docs/home.html"">TypeScript</a>"
+Jade,Explore,Front-end,FALSE,"Jade is an HTML preprocessor with lots of great features to speed up writing HTML<a href=""http://jade-lang.com/"">Jade</a>"
+Angular,Adopt,Front-end,FALSE,"Angular is a platform for building mobile and desktop web applications.<a href=""https://angular.io/"">Angular</a>"
+React,Adopt,Front-end,FALSE,"React is a JavaScript library for building user interfaces.<a href=""https://reactjs.org/"">React</a>"
+Vue.js,Adopt,Front-end,FALSE,"Vue.js is an open-source model–view–viewmodel JavaScript framework for building user interfaces and single-page applications. <a href=""https://vuejs.org/"">Vue.js</a>"
+Svelte,Explore,Front-end,TRUE,"Svelte is a free and open-source JavaScript framework written by Rich Harris. Svelte applications do not include framework references. Instead, building a Svelte application generates code to manipulate the DOM, which may give better client run-time performance. <a href=""https://svelte.dev/"">Svelte</a>"
+Backbone.js,Hold,Front-end,FALSE,"Backbone.js is a JavaScript library with a RESTful JSON interface and is based on the Model–view–presenter application design paradigm. <a href=""https://backbonejs.org/"">Backbone.js</a>"
+Knockout.js,Hold,Front-end,FALSE,"Knockout is a standalone JavaScript implementation of the Model-View-ViewModel pattern with templates.<a href=""https://knockoutjs.com/"">Knockout.js</a>"
+jQuery,Hold,Front-end,FALSE,"jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. <a href=""https://jquery.com/"">jQuery</a>"
+ASP.NET Core,Adopt,Back-end,TRUE,"ASP.NET Core is a free and open-source web framework and successor to ASP.NET, developed by Microsoft and the community. It is a modular framework that runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core. <a href=""https://docs.microsoft.com/en-us/aspnet/core/"">ASP.NET Core</a>"
+ASP.NET MVC,Hold,Back-end,FALSE,"The ASP.NET MVC is a discontinued web application framework developed by Microsoft, which implements the model–view–controller pattern. <a href=""https://dotnet.microsoft.com/apps/aspnet/mvc"">ASP.NET Core</a>"
+ASP.NET WebForms,Hold,Back-end,FALSE,"ASP.NET Web Forms is a discontinued web application framework and one of several programming models supported by the Microsoft ASP.NET technology. Web Forms applications can be written in any programming language which supports the Common Language Runtime, such as C# or Visual Basic. <a href=""https://dotnet.microsoft.com/apps/aspnet/web-forms"">ASP.NET WebForms </a>."
+Silverlight,Retired,Back-end,FALSE,"Microsoft Silverlight is a deprecated application framework for writing and running rich Internet applications, similar to Adobe Flash<a href=""https://www.microsoft.com/silverlight/"">Silverlight</a>"
+ASP.NET AJAX,Hold,Back-end,FALSE,"ASP.NET AJAX, formerly called Atlas, is a set of extensions to ASP.NET developed by Microsoft for implementing Ajax functionality.<a href=""https://docs.microsoft.com/en-us/aspnet/ajax/"">ASP.NET AJAX</a>"
+ASP.NET Web Services,Retired,Back-end,FALSE,"ASP.NET Web Services (ASMX) provides the ability to build web services that send messages using the Simple Object Access Protocol (SOAP)<a href=""https://support.microsoft.com/en-in/help/308359/how-to-write-a-simple-web-service-by-using-visual-c-net"">ASP.NET WebServices </a>"
+ASP.NET Web API,Hold,Back-end,FALSE,"ASP.NET Web API is a framework for building Restful HTTP services that can be consumed by a broad range of clients including browsers, mobiles, and tablets. <a href=""https://dotnet.microsoft.com/apps/aspnet/apis"">ASP.NET Web API</a>"
+Microsoft SQL Server,Adopt,Databases,FALSE,
+CosmosDB,Adopt,Databases,FALSE,
+OAuth,Adopt,Others,FALSE,
+Git,Adopt,Others,FALSE,
+OWASP,Explore,Others,FALSE,
+npm,Explore,Others,FALSE,
+yarn,Explore,Others,FALSE,
+Gulp,Explore,Others,FALSE,
+Grunt,Explore,Others,FALSE,
+Blazor,Explore,Back-end,FALSE,
+PWA,Explore,Others,FALSE,
+Apollo GraphDB,Explore,Databases,TRUE,
+MongoDB,Adopt,Databases,FALSE,
+Redis,Adopt,Databases,FALSE,
+RabbitMQ,Explore,Databases,FALSE,
+Nginx,Explore,Others,FALSE,
+Neo4j,Explore,Databases,FALSE,
+Docker,Adopt,Others,FALSE,
+Kubernetes,Adopt,Others,FALSE,
+Docker Compose,Adopt,Others,FALSE,
