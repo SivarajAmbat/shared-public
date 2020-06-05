@@ -1,0 +1,45 @@
+name,ring,quadrant,isNew,description
+HTML5,Adopt,Front-end,FALSE,<p>TBD</p>
+CSS3,Adopt,Front-end,FALSE,<p>TBD</p>
+SASS,Adopt,Front-end,FALSE,<p>TBD</p>
+TailwaindCSS,Explore,Front-end,TRUE,<p>TBD</p>
+Bootstrap,Adopt,Front-end,FALSE,<p>TBD</p>
+JavaScript,Adopt,Front-end,FALSE,<p>TBD</p>
+Bulma,Explore,Front-end,TRUE,<p>TBD</p>
+TypeScript,Adopt,Front-end,FALSE,<p>TBD</p>
+Jade,Explore,Front-end,FALSE,<p>TBD</p>
+Angular,Adopt,Front-end,FALSE,<p>TBD</p>
+React,Adopt,Front-end,FALSE,<p>TBD</p>
+Vue.js,Adopt,Front-end,FALSE,<p>TBD</p>
+Svelte,Explore,Front-end,TRUE,<p>TBD</p>
+Backbone.js,Hold,Front-end,FALSE,<p>TBD</p>
+Knockout.js,Hold,Front-end,FALSE,<p>TBD</p>
+jQuery,Hold,Front-end,FALSE,<p>TBD</p>
+.NET Framework,Hold,Back-end,FALSE,<p>TBD</p>
+ASP.NET Core,Adopt,Back-end,TRUE,<p>TBD</p>
+ASP.NET MVC,Hold,Back-end,FALSE,<p>TBD</p>
+ASP.NET WebForms,Hold,Back-end,FALSE,<p>TBD</p>
+Silverlight,Retired,Back-end,FALSE,<p>TBD</p>
+ASP.NET AJAX,Hold,Back-end,FALSE,<p>TBD</p>
+ASP.NET Web Services,Retired,Back-end,FALSE,<p>TBD</p>
+ASP.NET Web API,Hold,Back-end,FALSE,<p>TBD</p>
+Microsoft SQL Server,Adopt,Databases,FALSE,<p>TBD</p>
+CosmosDB,Adopt,Databases,FALSE,<p>TBD</p>
+OAuth,Adopt,Others,FALSE,<p>TBD</p>
+Git,Adopt,Others,FALSE,<p>TBD</p>
+OWASP,Explore,Others,FALSE,<p>TBD</p>
+npm,Explore,Others,FALSE,<p>TBD</p>
+yarn,Explore,Others,FALSE,<p>TBD</p>
+Gulp,Explore,Others,FALSE,<p>TBD</p>
+Grunt,Explore,Others,FALSE,<p>TBD</p>
+Blazor,Explore,Back-end,FALSE,<p>TBD</p>
+PWA,Explore,Others,FALSE,<p>TBD</p>
+Apollo GraphDB,Explore,Databases,TRUE,<p>TBD</p>
+MongoDB,Adopt,Databases,FALSE,<p>TBD</p>
+Redis,Adopt,Databases,FALSE,<p>TBD</p>
+RabbitMQ,Explore,Databases,FALSE,<p>TBD</p>
+Nginx,Explore,Others,FALSE,<p>TBD</p>
+Neo4j,Explore,Databases,FALSE,<p>TBD</p>
+Docker,Adopt,Others,FALSE,<p>TBD</p>
+Kubernetes,Adopt,Others,FALSE,<p>TBD</p>
+Docker Compose,Adopt,Others,FALSE,<p>TBD</p>
