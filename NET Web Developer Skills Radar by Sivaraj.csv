@@ -2,7 +2,7 @@ name,ring,quadrant,isNew,description
 HTML5,Adopt,Front-end,FALSE,<p>https://developer.mozilla.org/en-US/docs/Web/HTML</p>
 CSS3,Adopt,Front-end,FALSE,<p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS Reference</a></p>
 SASS,Adopt,Front-end,FALSE,<p>TBD</p>
-TailwaindCSS,Explore,Front-end,TRUE,<p>TBD</p>
+TailwaindCSS,Explore,Front-end,TRUE,<p>A utility-first CSS framework for rapidly building custom designs</p><a href="https://tailwindcss.com/docs/installation"></>
 Bootstrap,Adopt,Front-end,FALSE,<p>TBD</p>
 JavaScript,Adopt,Front-end,FALSE,<p>TBD</p>
 Bulma,Explore,Front-end,TRUE,<p>TBD</p>
