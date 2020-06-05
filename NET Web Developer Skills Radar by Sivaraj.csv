@@ -7,10 +7,10 @@ Bootstrap,Adopt,Front-end,FALSE,<p>TBD</p>
 JavaScript,Adopt,Front-end,FALSE,<p>TBD</p>
 Bulma,Explore,Front-end,TRUE,<p>TBD</p>
 TypeScript,Adopt,Front-end,FALSE,<p>TBD</p>
-Jade,Assess,Front-end,FALSE,<p>TBD</p>
+Jade,Explore,Front-end,FALSE,<p>TBD</p>
 Angular,Adopt,Front-end,FALSE,<p>TBD</p>
 React,Adopt,Front-end,FALSE,<p>TBD</p>
-"Vue,js",Adopt,Front-end,FALSE,<p>TBD</p>
+Vue.js,Adopt,Front-end,FALSE,<p>TBD</p>
 Svelte,Explore,Front-end,TRUE,<p>TBD</p>
 Backbone.js,Hold,Front-end,FALSE,<p>TBD</p>
 Knockout.js,Hold,Front-end,FALSE,<p>TBD</p>
