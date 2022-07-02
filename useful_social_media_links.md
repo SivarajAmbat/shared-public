@@ -18,4 +18,4 @@
 
 ## Security, Scams & Hoaxes
 
-(Pig-butchering)[https://maxread.substack.com/p/whats-the-deal-with-all-those-weird]
+[Pig-butchering](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
