@@ -28,6 +28,9 @@
 - [How to use computer](https://aces.bearblog.dev/how-do-you-use-a-computer-how-should-you/)
 - [Presentation Skills for Technical Work: Where are we now? Part 1 - University Work](https://event.on24.com/wcc/r/2922336/ED11A556DD05C3E6CB75149C4C8098E6?partnerref=TEH)
 - [Engineering Education 2.0 - Transformation in Practice: Approaches to Innovative Instructional Design](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=frcshare&eventid=2784162&sessionid=1&key=5EA43EB2B5D695CF65A7D3CED4D3050C&regTag=&V2=false&sourcepage=register)
+- [UCLA Career Guide](https://career.ucla.edu/file/ba8f1de4-c80d-4ccb-90c3-ad8c91a604e3)
+- [New Products/Services](https://twitter.com/hmason/status/1529179937172766723)
+- [Limitation in Excel](https://endjin.com/blog/2022/07/excel-data-loss-ieee754-and-precision.html)
 
 ## Others
 [Crossword Solver](https://bair.berkeley.edu/blog/2022/05/20/crosswords/)
